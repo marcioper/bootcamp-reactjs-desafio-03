@@ -3,10 +3,11 @@ Configure uma estrutura com create-react-app. Além disso, utilize as ferrament
 
 Neste desafio você vai construir uma aplicação utilizando a biblioteca React Map GL da Uber. A aplicação se trata de um repositório de localização de desenvolvedores. O usuário poderá adicionar desenvolvedores ao mapa clicando sobre o mesmo e informando o username do Github do desenvolvedor, dessa forma, a aplicação irá captar os dados do dev via API e salvá-lo no estado do Redux.
 
-Utilize o seguinte layout na aplicação:<br/>
-![Imagem 1](1image_desafio03.png?raw=true "Imagem 1")
-![Imagem 2](2image_desafio03.png?raw=true "Imagem 2")
-![Imagem 3](3image_desafio03.png?raw=true "Imagem 3")
+Utilize o seguinte layout na aplicação:
+(Imagens na raiz do projeto)<br/>
+1-image_desafio03.png<br/>
+2-image_desafio03.png<br/>
+2-image_desafio03.png<br/>
 
 Veja que na esquerda temos uma lista dos usuários cadastrados enquanto que no mapa temos os avatares do usuário indicando sua posição no mapa.
 
